@@ -10,7 +10,7 @@ pandas == 1.4.3
 
 ## 文件结构
 |-- data # 原数据集  
-|-- token # 文本编辑器  
+|-- token # 文本编辑器（放在本仓库的release处）  
 |-- requirements.txt # 环境配置文件  
 |-- main.py # 主函数，用于模型建构、训练、预测  
 |-- prepare.ipynb # 数据处理文件  
